@@ -1,3 +1,4 @@
+```md
 # Noteman  
 
 **Noteman** is a powerful and flexible note-taking and knowledge management app designed to help you stay organized, collaborate, and streamline your workflow. It provides a rich text editor, real-time synchronization, and structured data organization, making it ideal for personal and professional use.  
@@ -8,6 +9,15 @@
 - Multi-user collaboration with real-time syncing  
 - Secure authentication and cloud storage  
 - Customizable workspaces and nested structures  
+
+## 🛠 Tech Stack  
+- **Next.js** – React framework for building web applications  
+- **ShadCN** – UI components for styling  
+- **Tailwind CSS** – Utility-first CSS framework  
+- **TypeScript** – Strongly typed JavaScript  
+- **Convex DB** – Backend database for real-time data synchronization  
+- **Edge Store** – Secure cloud storage solution  
+- **Clerk Auth** – Authentication and user management  
 
 ## 🚀 Getting Started  
 
@@ -50,3 +60,4 @@ npm run dev
 ```  
 
 The app will be available at `http://localhost:3000`.
+```
